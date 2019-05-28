@@ -1,0 +1,7 @@
+{
+	"api_key": "YOUR_API_KEY_HERE",
+	"channels":{
+		"user_names": ["scotthortonshow"],
+		"channel_ids": ["UCRu_WNcX0WgBQDurM1MR7ZQ"]
+	}
+}

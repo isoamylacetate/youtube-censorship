@@ -3,7 +3,7 @@
 """
 Created on Sun May 26 18:30:17 2019
 
-@author: Aaron
+@author: isoamylacetate
 """
 
 #internal modules
